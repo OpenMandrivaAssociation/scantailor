@@ -4,7 +4,7 @@ Release:	2
 Summary:	Scan processing software
 License:	GPLv3+
 Group:		Graphics
-Url:		http://scantailor.sf.net
+Url:		https://scantailor.sf.net
 Source0:	http://downloads.sourceforge.net/project/scantailor/%{name}/%{version}/%{name}-%{version}.tar.gz
 Source1:	%{name}.desktop
 BuildRequires:	boost-devel
